@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThreadsJSONADS3ANMCA</string>
+    <string name="Descricao">Descricção: </string>
+    <string name="Max">Máxima: </string>
+    <string name="Min">Mínima: </string>
+    <string name="Cidade">Cidade: </string>
+</resources>
